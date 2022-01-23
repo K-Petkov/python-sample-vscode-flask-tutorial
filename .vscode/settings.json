@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe"
+    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9523ef67-78f1-4595-9d2d-36b73f0be37e/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/KosWebNew",
+    "appService.deploySubpath": "."
 }
